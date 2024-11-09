@@ -1,5 +1,8 @@
-console.log('Hello to github')
+let a = 10
+if (a > 5){
+    console.log('a > 5')
+}
+else{
+    console.log('a < 5')
+}
 
-console.log('Hello to github')
-console.log('Hello to github')
-console.log('Hello to github')
